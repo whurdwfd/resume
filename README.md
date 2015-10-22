@@ -13,6 +13,7 @@ Highly qualified Business Leader with a background in software engineering and a
 
 **GORIGGER, Weatherford, TX							2012 - 2015**
 *Vice President, IT Development			       		*
+
 Led the technical planning for the largest oil and gas supply chain management application in the nation that provided oilfield information to hundreds of thousands of end users in over 130 countries. The system efficiently scaled into tens of millions of products, utilizing cutting edge high availability distributed web service infrastructures.
 * Led the design, development, and deployment of the GORigger web application, an international e-commerce application and business process solution for the Oil and Gas industry.
 * Established clean coding standards and efficient project workflows to streamline the output of quality code by the GORigger development team utilizing Lean or Agile/SCRUM development methodologies where most effective.
@@ -34,6 +35,7 @@ Led the technical planning for the largest oil and gas supply chain management a
 
 **WESTFIELD SOLUTIONS, Weatherford, TX					2001 - 2012**
 *Founder*
+
 IT consultant specializing in software design and development, network infrastructure, security consulting, cloud computing and virtualization, database design and administration.
 * Provided technical support for small businesses in Weatherford and Fort Worth.
 * Trained and mentored individuals and groups in IT related practices.
@@ -42,6 +44,7 @@ IT consultant specializing in software design and development, network infrastru
 
 **REAL ESTATE BY PAT GRAY, Fort Worth, TX					2006 - 2013**
 *Broker*
+
 Was a multi-million dollar producer for 7 years and an accomplished contract negotiator, specializing in nuanced REO, HUD, and VA contracts. Developed skills communicating with clients and providing them with solutions. Managed new transactional problems and provided responsive solutions. 
 * Provided quality customer care to thousands of clients.
 * Evaluated client needs and provided timely comprehensive solutions and counsel.
